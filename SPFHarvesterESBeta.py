@@ -1,3 +1,6 @@
+#SPFHarvesterESBeta.py
+#SPF Outlook 365 Beta: It rubs the SPF on its skin, or else fails DMARC again" - Buffalo Bill,  CISSP 
+#This is in Beta and for testing - adjustments may be made
 import requests
 import json
 import csv
